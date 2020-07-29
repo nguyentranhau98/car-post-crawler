@@ -1,0 +1,1079 @@
+1595837753366	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledopWRc"
+*** You are running in headless mode.
+1595837756472	Marionette	INFO	Listening on port 35377
+1595837756480	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595837818154	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZRSGxC"
+*** You are running in headless mode.
+1595837820558	Marionette	INFO	Listening on port 36483
+1595837820576	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595837847103	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletAztLR"
+*** You are running in headless mode.
+1595837849491	Marionette	INFO	Listening on port 39317
+1595837849523	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gstatic.com/mysidia/2cef7b9fc9e7376c4fbe3644b9951ecd.js?tag=video_mra/web_fig_och, line 176: SecurityError: The operation is insecure.
+1595837908417	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilepCXBg3"
+*** You are running in headless mode.
+1595837910907	Marionette	INFO	Listening on port 46445
+1595837910936	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595837944977	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0cijeh"
+*** You are running in headless mode.
+1595837948050	Marionette	INFO	Listening on port 33897
+1595837948108	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+1595838100037	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilesS1xN3"
+*** You are running in headless mode.
+1595838103119	Marionette	INFO	Listening on port 37347
+1595838103158	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gstatic.com/mysidia/2cef7b9fc9e7376c4fbe3644b9951ecd.js?tag=video_mra/web_fig_och, line 176: SecurityError: The operation is insecure.
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1595838344548	Marionette	INFO	Stopped listening on port 35377
+1595839132457	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileX3jqQP"
+*** You are running in headless mode.
+1595839134980	Marionette	INFO	Listening on port 36293
+1595839135075	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gstatic.com/mysidia/2cef7b9fc9e7376c4fbe3644b9951ecd.js?tag=video_mra/web_fig_och, line 176: SecurityError: The operation is insecure.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1595839166982	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTKYeAc"
+*** You are running in headless mode.
+1595839169065	Marionette	INFO	Listening on port 43087
+1595839169097	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gstatic.com/mysidia/2cef7b9fc9e7376c4fbe3644b9951ecd.js?tag=video_mra/web_fig_och, line 176: SecurityError: The operation is insecure.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1595839699907	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileiRfIlv"
+*** You are running in headless mode.
+1595839702334	Marionette	INFO	Listening on port 33555
+1595839702423	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595840026377	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileyI6vbD"
+*** You are running in headless mode.
+1595840028421	Marionette	INFO	Listening on port 36967
+1595840028521	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gstatic.com/mysidia/2cef7b9fc9e7376c4fbe3644b9951ecd.js?tag=video_mra/web_fig_och, line 176: SecurityError: The operation is insecure.
+1595900445413	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewJ8X00"
+*** You are running in headless mode.
+1595900448054	Marionette	INFO	Listening on port 34767
+1595900448133	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gstatic.com/mysidia/2cef7b9fc9e7376c4fbe3644b9951ecd.js?tag=video_mra/web_fig_och, line 176: SecurityError: The operation is insecure.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1595900545895	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZ23GG7"
+*** You are running in headless mode.
+1595900548149	Marionette	INFO	Listening on port 41743
+1595900548212	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595900700022	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilel3rjZE"
+*** You are running in headless mode.
+1595900702017	Marionette	INFO	Listening on port 45423
+1595900702038	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gstatic.com/mysidia/2cef7b9fc9e7376c4fbe3644b9951ecd.js?tag=video_mra/web_fig_och, line 176: SecurityError: The operation is insecure.
+1595900775165	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0PhvYA"
+*** You are running in headless mode.
+1595900777529	Marionette	INFO	Listening on port 34381
+1595900777591	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595901968275	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilez2Cw8d"
+*** You are running in headless mode.
+1595901970496	Marionette	INFO	Listening on port 43089
+1595901970591	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200723/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1595902082295	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileW2LPPJ"
+*** You are running in headless mode.
+1595902084450	Marionette	INFO	Listening on port 44635
+1595902084512	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gstatic.com/mysidia/2cef7b9fc9e7376c4fbe3644b9951ecd.js?tag=video_mra/web_fig_och, line 176: SecurityError: The operation is insecure.
+JavaScript error: https://ad.lkqd.net/vpaid/vpaid.js?fusion=1.0, line 1: NS_ERROR_NOT_INITIALIZED: 
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200723/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1595902186592	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilerPbaQO"
+*** You are running in headless mode.
+1595902188984	Marionette	INFO	Listening on port 45127
+1595902189013	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gstatic.com/mysidia/2cef7b9fc9e7376c4fbe3644b9951ecd.js?tag=video_mra/web_fig_och, line 176: SecurityError: The operation is insecure.
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200723/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+1595902549365	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFRQ2G0"
+*** You are running in headless mode.
+1595902551216	Marionette	INFO	Listening on port 35623
+1595902551278	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gstatic.com/mysidia/2cef7b9fc9e7376c4fbe3644b9951ecd.js?tag=video_mra/web_fig_och, line 176: SecurityError: The operation is insecure.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200723/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200723/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1595903834673	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDVAyr7"
+*** You are running in headless mode.
+1595903837720	Marionette	INFO	Listening on port 36435
+1595903837792	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gstatic.com/mysidia/2cef7b9fc9e7376c4fbe3644b9951ecd.js?tag=video_mra/web_fig_och, line 176: SecurityError: The operation is insecure.
+JavaScript error: https://www.gstatic.com/mysidia/2cef7b9fc9e7376c4fbe3644b9951ecd.js?tag=video_mra/web_fig_och, line 176: SecurityError: The operation is insecure.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1595904962449	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile64MUv0"
+*** You are running in headless mode.
+1595904964284	Marionette	INFO	Listening on port 32997
+1595904964371	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gstatic.com/mysidia/2cef7b9fc9e7376c4fbe3644b9951ecd.js?tag=video_mra/web_fig_och, line 176: SecurityError: The operation is insecure.
+JavaScript error: https://www.gstatic.com/mysidia/2cef7b9fc9e7376c4fbe3644b9951ecd.js?tag=video_mra/web_fig_och, line 176: SecurityError: The operation is insecure.
+1595905016174	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileD23neB"
+*** You are running in headless mode.
+1595905019209	Marionette	INFO	Listening on port 44263
+1595905019297	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gstatic.com/mysidia/2cef7b9fc9e7376c4fbe3644b9951ecd.js?tag=video_mra/web_fig_och, line 176: SecurityError: The operation is insecure.
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200723/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200723/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/mysidia/2cef7b9fc9e7376c4fbe3644b9951ecd.js?tag=video_mra/web_fig_och, line 176: SecurityError: The operation is insecure.
+1595905435043	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecs7fuY"
+*** You are running in headless mode.
+1595905437458	Marionette	INFO	Listening on port 41703
+1595905437481	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gstatic.com/mysidia/2cef7b9fc9e7376c4fbe3644b9951ecd.js?tag=video_mra/web_fig_och, line 176: SecurityError: The operation is insecure.
+JavaScript error: https://www.gstatic.com/mysidia/2cef7b9fc9e7376c4fbe3644b9951ecd.js?tag=video_mra/web_fig_och, line 176: SecurityError: The operation is insecure.
+1595905481396	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile57goO2"
+*** You are running in headless mode.
+1595905483967	Marionette	INFO	Listening on port 45367
+1595905484014	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gstatic.com/mysidia/2cef7b9fc9e7376c4fbe3644b9951ecd.js?tag=video_mra/web_fig_och, line 176: SecurityError: The operation is insecure.
+JavaScript error: https://www.gstatic.com/mysidia/2cef7b9fc9e7376c4fbe3644b9951ecd.js?tag=video_mra/web_fig_och, line 176: SecurityError: The operation is insecure.
+JavaScript error: https://www.gstatic.com/mysidia/2cef7b9fc9e7376c4fbe3644b9951ecd.js?tag=video_mra/web_fig_och, line 176: SecurityError: The operation is insecure.
+JavaScript error: https://www.gstatic.com/mysidia/2cef7b9fc9e7376c4fbe3644b9951ecd.js?tag=video_mra/web_fig_och, line 176: SecurityError: The operation is insecure.
+JavaScript error: https://www.gstatic.com/mysidia/2cef7b9fc9e7376c4fbe3644b9951ecd.js?tag=video_mra/web_fig_och, line 176: SecurityError: The operation is insecure.
+JavaScript error: https://www.gstatic.com/mysidia/2cef7b9fc9e7376c4fbe3644b9951ecd.js?tag=video_mra/web_fig_och, line 176: SecurityError: The operation is insecure.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1595905645149	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileWX1hYf"
+*** You are running in headless mode.
+1595905647375	Marionette	INFO	Listening on port 39247
+1595905647465	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gstatic.com/mysidia/2cef7b9fc9e7376c4fbe3644b9951ecd.js?tag=video_mra/web_fig_och, line 176: SecurityError: The operation is insecure.
+JavaScript error: https://www.gstatic.com/mysidia/2cef7b9fc9e7376c4fbe3644b9951ecd.js?tag=video_mra/web_fig_och, line 176: SecurityError: The operation is insecure.
+JavaScript error: https://www.gstatic.com/mysidia/2cef7b9fc9e7376c4fbe3644b9951ecd.js?tag=video_mra/web_fig_och, line 176: SecurityError: The operation is insecure.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1595906853131	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCkC6xz"
+*** You are running in headless mode.
+1595906855390	Marionette	INFO	Listening on port 41559
+1595906855446	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gstatic.com/mysidia/2cef7b9fc9e7376c4fbe3644b9951ecd.js?tag=video_mra/web_fig_och, line 176: SecurityError: The operation is insecure.
+JavaScript error: https://www.gstatic.com/mysidia/2cef7b9fc9e7376c4fbe3644b9951ecd.js?tag=video_mra/web_fig_och, line 176: SecurityError: The operation is insecure.
+JavaScript error: https://ad.lkqd.net/vpaid/formats.js, line 1: TypeError: parent.window.document.body is null
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200723/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200723/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+1595907118111	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileemdGk3"
+*** You are running in headless mode.
+1595907120431	Marionette	INFO	Listening on port 35553
+1595907120526	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gstatic.com/mysidia/2cef7b9fc9e7376c4fbe3644b9951ecd.js?tag=video_mra/web_fig_och, line 176: SecurityError: The operation is insecure.
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200723/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200723/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+1595907225062	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileAfaReU"
+*** You are running in headless mode.
+1595907227976	Marionette	INFO	Listening on port 38879
+1595907227986	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gstatic.com/mysidia/2cef7b9fc9e7376c4fbe3644b9951ecd.js?tag=video_mra/web_fig_och, line 176: SecurityError: The operation is insecure.
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200723/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200723/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200723/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/mysidia/2cef7b9fc9e7376c4fbe3644b9951ecd.js?tag=video_mra/web_fig_och, line 176: SecurityError: The operation is insecure.
+JavaScript error: https://ad.lkqd.net/vpaid/formats.js, line 1: TypeError: document_context.location is null
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200723/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200723/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+1595907397918	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexQe6j8"
+*** You are running in headless mode.
+1595907402696	Marionette	INFO	Listening on port 42953
+1595907403445	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1595907585287	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTo40iW"
+*** You are running in headless mode.
+1595907588543	Marionette	INFO	Listening on port 41707
+1595907588635	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gstatic.com/mysidia/2cef7b9fc9e7376c4fbe3644b9951ecd.js?tag=video_mra/web_fig_och, line 176: SecurityError: The operation is insecure.
+JavaScript error: https://ad.lkqd.net/vpaid/formats.js, line 1: TypeError: parent.window.document.body is null
+JavaScript error: https://www.gstatic.com/mysidia/2cef7b9fc9e7376c4fbe3644b9951ecd.js?tag=video_mra/web_fig_och, line 176: SecurityError: The operation is insecure.
+JavaScript error: https://ad.lkqd.net/vpaid/formats.js, line 1: TypeError: document_context.location is null
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200723/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200723/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/mysidia/2cef7b9fc9e7376c4fbe3644b9951ecd.js?tag=video_mra/web_fig_och, line 176: SecurityError: The operation is insecure.
+JavaScript error: https://www.gstatic.com/mysidia/2cef7b9fc9e7376c4fbe3644b9951ecd.js?tag=video_mra/web_fig_och, line 176: SecurityError: The operation is insecure.
+JavaScript error: https://www.gstatic.com/mysidia/2cef7b9fc9e7376c4fbe3644b9951ecd.js?tag=video_mra/web_fig_och, line 176: SecurityError: The operation is insecure.
+JavaScript error: https://www.gstatic.com/mysidia/2cef7b9fc9e7376c4fbe3644b9951ecd.js?tag=video_mra/web_fig_och, line 176: SecurityError: The operation is insecure.
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200723/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/mysidia/2cef7b9fc9e7376c4fbe3644b9951ecd.js?tag=video_mra/web_fig_och, line 176: SecurityError: The operation is insecure.
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200723/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200723/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/mysidia/2cef7b9fc9e7376c4fbe3644b9951ecd.js?tag=video_mra/web_fig_och, line 176: SecurityError: The operation is insecure.
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200723/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200723/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/mysidia/2cef7b9fc9e7376c4fbe3644b9951ecd.js?tag=video_mra/web_fig_och, line 176: SecurityError: The operation is insecure.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1595907913971	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4Kqmum"
+*** You are running in headless mode.
+1595907916115	Marionette	INFO	Listening on port 45291
+1595907916186	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gstatic.com/mysidia/2cef7b9fc9e7376c4fbe3644b9951ecd.js?tag=video_mra/web_fig_och, line 176: SecurityError: The operation is insecure.
+JavaScript error: https://www.gstatic.com/mysidia/2cef7b9fc9e7376c4fbe3644b9951ecd.js?tag=video_mra/web_fig_och, line 176: SecurityError: The operation is insecure.
+JavaScript error: https://www.gstatic.com/mysidia/2cef7b9fc9e7376c4fbe3644b9951ecd.js?tag=video_mra/web_fig_och, line 176: SecurityError: The operation is insecure.
+JavaScript error: https://www.gstatic.com/mysidia/2cef7b9fc9e7376c4fbe3644b9951ecd.js?tag=video_mra/web_fig_och, line 176: SecurityError: The operation is insecure.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1595939886066	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9WujnQ"
+*** You are running in headless mode.
+1595939889291	Marionette	INFO	Listening on port 36125
+1595939889387	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gstatic.com/mysidia/2cef7b9fc9e7376c4fbe3644b9951ecd.js?tag=video_mra/web_fig_och, line 176: SecurityError: The operation is insecure.
+JavaScript error: https://ads.pubmatic.com/AdServer/js/showad.js?, line 2: NS_ERROR_FAILURE: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200723/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200723/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1595940137090	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecHN1hY"
+*** You are running in headless mode.
+1595940139241	Marionette	INFO	Listening on port 37947
+1595940139302	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gstatic.com/mysidia/2cef7b9fc9e7376c4fbe3644b9951ecd.js?tag=video_mra/web_fig_och, line 176: SecurityError: The operation is insecure.
+JavaScript error: https://ad.lkqd.net/vpaid/vpaid.js?fusion=1.0, line 1: NS_ERROR_NOT_INITIALIZED: 
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1595940285461	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHKBeUS"
+*** You are running in headless mode.
+1595940287360	Marionette	INFO	Listening on port 42603
+1595940287377	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gstatic.com/mysidia/2cef7b9fc9e7376c4fbe3644b9951ecd.js?tag=video_mra/web_fig_och, line 176: SecurityError: The operation is insecure.
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200723/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1595992447492	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYe3Ch2"
+*** You are running in headless mode.
+1595992452065	Marionette	INFO	Listening on port 42591
+1595992452119	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cars.com/shopping/, line 1325: ReferenceError: _satellite is not defined
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1595992603587	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4lcFm4"
+*** You are running in headless mode.
+1595992605544	Marionette	INFO	Listening on port 34119
+1595992605600	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cars.com/shopping/, line 1325: ReferenceError: _satellite is not defined
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1595994303108	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilex4ATJl"
+*** You are running in headless mode.
+1595994305664	Marionette	INFO	Listening on port 35231
+1595994305725	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cars.com/shopping/, line 1325: ReferenceError: _satellite is not defined
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.cars.com/shopping/acura/ line 5 > scriptElement, line 14: ReferenceError: ttd_dom_ready is not defined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.cars.com/shopping/alfa_romeo/ line 5 > scriptElement, line 14: ReferenceError: ttd_dom_ready is not defined
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1595994379720	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiler1hfZ4"
+*** You are running in headless mode.
+1595994381814	Marionette	INFO	Listening on port 44507
+1595994381833	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cars.com/shopping/, line 1325: ReferenceError: _satellite is not defined
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.cars.com/shopping/acura/ line 5 > scriptElement, line 14: ReferenceError: ttd_dom_ready is not defined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.cars.com/shopping/alfa_romeo/ line 5 > scriptElement, line 14: ReferenceError: ttd_dom_ready is not defined
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1595996639589	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileIytS6c"
+*** You are running in headless mode.
+1595996642111	Marionette	INFO	Listening on port 33791
+1595996642205	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cars.com/shopping/, line 1325: ReferenceError: _satellite is not defined
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: , line 0: uncaught exception: Object
+1595996710557	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewE8NYq"
+*** You are running in headless mode.
+1595996712861	Marionette	INFO	Listening on port 35197
+1595996712870	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cars.com/shopping/, line 1325: ReferenceError: _satellite is not defined
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: , line 0: uncaught exception: Object
+1595997123070	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePrzqNO"
+*** You are running in headless mode.
+1595997125990	Marionette	INFO	Listening on port 46683
+1595997126089	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cars.com/shopping/, line 1325: ReferenceError: _satellite is not defined
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.cars.com/shopping/acura/ line 5 > scriptElement, line 14: ReferenceError: ttd_dom_ready is not defined
+JavaScript error: , line 0: uncaught exception: undefined
+1595997475896	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileE1HjNj"
+*** You are running in headless mode.
+1595997478737	Marionette	INFO	Listening on port 39219
+1595997478815	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cars.com/shopping/, line 1325: ReferenceError: _satellite is not defined
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.cars.com/shopping/acura/ line 5 > scriptElement, line 14: ReferenceError: ttd_dom_ready is not defined
+JavaScript error: , line 0: uncaught exception: undefined
+1595997758012	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDfEZRr"
+*** You are running in headless mode.
+1595997761197	Marionette	INFO	Listening on port 39143
+1595997761235	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cars.com/shopping/, line 1325: ReferenceError: _satellite is not defined
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: , line 0: uncaught exception: Object
+1595997902573	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexXDtYX"
+*** You are running in headless mode.
+1595997908137	Marionette	INFO	Listening on port 39449
+1595997908193	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cars.com/shopping/, line 1325: ReferenceError: _satellite is not defined
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1595998039557	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJiTJZm"
+*** You are running in headless mode.
+1595998043135	Marionette	INFO	Listening on port 42251
+1595998043178	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cars.com/shopping/, line 1325: ReferenceError: _satellite is not defined
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: , line 0: uncaught exception: Object
+1595998252431	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOioP7Y"
+*** You are running in headless mode.
+1595998257543	Marionette	INFO	Listening on port 35895
+1595998257570	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cars.com/shopping/, line 1325: ReferenceError: _satellite is not defined
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.cars.com/shopping/acura/ line 5 > scriptElement, line 14: ReferenceError: ttd_dom_ready is not defined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.cars.com/shopping/acura/?page=0 line 5 > scriptElement, line 14: ReferenceError: ttd_dom_ready is not defined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: Object
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1595998483920	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileE5SzP3"
+*** You are running in headless mode.
+1595998485985	Marionette	INFO	Listening on port 43969
+1595998486037	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cars.com/shopping/, line 1325: ReferenceError: _satellite is not defined
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars2.js, line 1: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://ai.autoid.com/cars2.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars2.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars2.js, line 1: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://ai.autoid.com/cars2.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars2.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars2.js, line 1: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://ai.autoid.com/cars2.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars2.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars2.js, line 1: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://ai.autoid.com/cars2.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars2.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: , line 0: uncaught exception: Object
+1595998528686	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledIhcbU"
+*** You are running in headless mode.
+1595998531025	Marionette	INFO	Listening on port 37367
+1595998531100	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cars.com/shopping/, line 1325: ReferenceError: _satellite is not defined
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.cars.com/shopping/acura/ line 5 > scriptElement, line 14: ReferenceError: ttd_dom_ready is not defined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.cars.com/shopping/acura/?page=1 line 5 > scriptElement, line 14: ReferenceError: ttd_dom_ready is not defined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.cars.com/shopping/acura/?page=3 line 5 > scriptElement, line 14: ReferenceError: ttd_dom_ready is not defined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.cars.com/shopping/acura/?page=4 line 5 > scriptElement, line 14: ReferenceError: ttd_dom_ready is not defined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: 7
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1596000752005	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilerBB9pm"
+*** You are running in headless mode.
+1596000754630	Marionette	INFO	Listening on port 34171
+1596000754724	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cars.com/shopping/, line 1325: ReferenceError: _satellite is not defined
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1596000844483	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile54zCW4"
+*** You are running in headless mode.
+1596000846422	Marionette	INFO	Listening on port 45855
+1596000846499	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cars.com/shopping/, line 1325: ReferenceError: _satellite is not defined
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.cars.com/shopping/acura/ line 5 > scriptElement, line 14: ReferenceError: ttd_dom_ready is not defined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.cars.com/shopping/acura/?page=1 line 5 > scriptElement, line 14: ReferenceError: ttd_dom_ready is not defined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.cars.com/shopping/acura/?page=2 line 5 > scriptElement, line 14: ReferenceError: ttd_dom_ready is not defined
+JavaScript error: , line 0: uncaught exception: undefined
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1596000957475	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRKKwi9"
+*** You are running in headless mode.
+1596000959923	Marionette	INFO	Listening on port 39109
+1596000959993	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cars.com/shopping/, line 1325: ReferenceError: _satellite is not defined
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://www.cars.com/shopping/acura/ line 5 > scriptElement, line 14: ReferenceError: ttd_dom_ready is not defined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.cars.com/shopping/acura/?page=1 line 5 > scriptElement, line 14: ReferenceError: ttd_dom_ready is not defined
+JavaScript error: https://www.cars.com/shopping/acura/?page=2 line 5 > scriptElement, line 14: ReferenceError: ttd_dom_ready is not defined
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1596001236321	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNwm4ON"
+*** You are running in headless mode.
+1596001238239	Marionette	INFO	Listening on port 41705
+1596001238344	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cars.com/shopping/, line 1325: ReferenceError: _satellite is not defined
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.cars.com/shopping/acura/ line 5 > scriptElement, line 14: ReferenceError: ttd_dom_ready is not defined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.cars.com/shopping/acura/?page=1 line 5 > scriptElement, line 14: ReferenceError: ttd_dom_ready is not defined
+1596001393832	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZdpG7w"
+*** You are running in headless mode.
+1596001396581	Marionette	INFO	Listening on port 40075
+1596001396651	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cars.com/shopping/, line 1327: ReferenceError: _satellite is not defined
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.cars.com/shopping/acura/ line 5 > scriptElement, line 14: ReferenceError: ttd_dom_ready is not defined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.cars.com/shopping/acura/?page=1 line 5 > scriptElement, line 14: ReferenceError: ttd_dom_ready is not defined
+JavaScript error: , line 0: uncaught exception: undefined
+1596001616439	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKOZ2xu"
+*** You are running in headless mode.
+1596001619018	Marionette	INFO	Listening on port 44045
+1596001619055	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cars.com/shopping/, line 1325: ReferenceError: _satellite is not defined
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.cars.com/shopping/acura/ line 5 > scriptElement, line 14: ReferenceError: ttd_dom_ready is not defined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.cars.com/shopping/acura/?page=1 line 5 > scriptElement, line 14: ReferenceError: ttd_dom_ready is not defined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.cars.com/vehicledetail/detail/814652333/overview/ line 5 > scriptElement, line 14: ReferenceError: ttd_dom_ready is not defined
+JavaScript error: , line 0: uncaught exception: undefined
+1596001751869	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilepJ4Ze6"
+*** You are running in headless mode.
+1596001754922	Marionette	INFO	Listening on port 43455
+1596001754988	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cars.com/shopping/, line 1325: ReferenceError: _satellite is not defined
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.cars.com/shopping/acura/ line 5 > scriptElement, line 14: ReferenceError: ttd_dom_ready is not defined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: Object
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1596001968399	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7E5bpl"
+*** You are running in headless mode.
+1596001971259	Marionette	INFO	Listening on port 37391
+1596001971324	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cars.com/shopping/, line 1325: ReferenceError: _satellite is not defined
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.cars.com/shopping/acura/ line 5 > scriptElement, line 14: ReferenceError: ttd_dom_ready is not defined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.cars.com/shopping/acura/?page=1 line 5 > scriptElement, line 14: ReferenceError: ttd_dom_ready is not defined
+JavaScript error: , line 0: uncaught exception: undefined
+1596002337597	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFNA76p"
+*** You are running in headless mode.
+1596002340535	Marionette	INFO	Listening on port 38817
+1596002340620	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cars.com/shopping/, line 1325: ReferenceError: _satellite is not defined
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.cars.com/shopping/acura/ line 5 > scriptElement, line 14: ReferenceError: ttd_dom_ready is not defined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.cars.com/shopping/acura/?page=1 line 5 > scriptElement, line 14: ReferenceError: ttd_dom_ready is not defined
+JavaScript error: https://www.cars.com/vehicledetail/static/ee60a83b37c0/client.module.js, line 8: TypeError: e is null
+1596002514643	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZj6oDa"
+*** You are running in headless mode.
+1596002520194	Marionette	INFO	Listening on port 41973
+1596002520199	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cars.com/shopping/, line 1325: ReferenceError: _satellite is not defined
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://www.cars.com/shopping/ line 5 > scriptElement, line 14: ReferenceError: ttd_dom_ready is not defined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.cars.com/shopping/acura/ line 5 > scriptElement, line 14: ReferenceError: ttd_dom_ready is not defined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.cars.com/shopping/acura/?page=1 line 5 > scriptElement, line 14: ReferenceError: ttd_dom_ready is not defined
+JavaScript error: https://www.cars.com/vehicledetail/detail/784954802/overview/ line 5 > scriptElement, line 14: ReferenceError: ttd_dom_ready is not defined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.cars.com/vehicledetail/detail/799632159/overview/ line 5 > scriptElement, line 14: ReferenceError: ttd_dom_ready is not defined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.cars.com/vehicledetail/detail/814410352/overview/ line 5 > scriptElement, line 14: ReferenceError: ttd_dom_ready is not defined
+JavaScript error: , line 0: uncaught exception: undefined
+1596002739100	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewKBNWe"
+*** You are running in headless mode.
+1596002740863	Marionette	INFO	Listening on port 34351
+1596002740934	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cars.com/shopping/, line 1325: ReferenceError: _satellite is not defined
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://www.cars.com/shopping/ line 5 > scriptElement, line 14: ReferenceError: ttd_dom_ready is not defined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.cars.com/shopping/acura/ line 5 > scriptElement, line 14: ReferenceError: ttd_dom_ready is not defined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.cars.com/shopping/acura/?page=1 line 5 > scriptElement, line 14: ReferenceError: ttd_dom_ready is not defined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.cars.com/vehicledetail/detail/813622342/overview/ line 5 > scriptElement, line 14: ReferenceError: ttd_dom_ready is not defined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.cars.com/vehicledetail/detail/814410352/overview/ line 5 > scriptElement, line 14: ReferenceError: ttd_dom_ready is not defined
+JavaScript error: , line 0: uncaught exception: undefined
+1596002869840	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6QqO7k"
+*** You are running in headless mode.
+1596002871838	Marionette	INFO	Listening on port 43539
+1596002871853	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cars.com/shopping/, line 1325: ReferenceError: _satellite is not defined
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://www.cars.com/shopping/ line 5 > scriptElement, line 14: ReferenceError: ttd_dom_ready is not defined
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.cars.com/shopping/acura/ line 5 > scriptElement, line 14: ReferenceError: ttd_dom_ready is not defined
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.cars.com/shopping/acura/?page=1 line 5 > scriptElement, line 14: ReferenceError: ttd_dom_ready is not defined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.gstatic.com/mysidia/0b1871e833e3aa4a01c47c769da66fd9.js?tag=video_mra/web_fig_och, line 177: SecurityError: The operation is insecure.
+1596002936196	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileD7p71B"
+*** You are running in headless mode.
+1596002938678	Marionette	INFO	Listening on port 36995
+1596002938716	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cars.com/shopping/, line 1325: ReferenceError: _satellite is not defined
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://www.cars.com/shopping/acura/ line 5 > scriptElement, line 14: ReferenceError: ttd_dom_ready is not defined
+JavaScript error: https://www.cars.com/shopping/acura/?page=1 line 5 > scriptElement, line 14: ReferenceError: ttd_dom_ready is not defined
+1596003076967	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQwl1QK"
+*** You are running in headless mode.
+1596003079318	Marionette	INFO	Listening on port 34659
+1596003079382	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cars.com/shopping/, line 1325: ReferenceError: _satellite is not defined
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://www.cars.com/shopping/acura/ line 5 > scriptElement, line 14: ReferenceError: ttd_dom_ready is not defined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://siteintercept.qualtrics.com/WRSiteInterceptEngine/?Q_ZID=ZN_e5sZQpBKez95p8V&Q_LOC=https%3A%2F%2Fwww.cars.com%2Fshopping%2Facura%2F%3Fpage%3D1&Q_LOC=https%3A%2F%2Fwww.cars.com%2Fshopping%2Facura%2F%3Fpage%3D1, line 3: Error: Loading chunk 12 failed.
+(error: https://siteintercept.qualtrics.com/dxjsmodule/12.0da2f5012e49e065e383.chunk.js?Q_CLIENTVERSION=1.31.3&Q_CLIENTTYPE=web)
+JavaScript error: https://siteintercept.qualtrics.com/WRSiteInterceptEngine/?Q_ZID=ZN_e5sZQpBKez95p8V&Q_LOC=https%3A%2F%2Fwww.cars.com%2Fshopping%2Facura%2F%3Fpage%3D1&Q_LOC=https%3A%2F%2Fwww.cars.com%2Fshopping%2Facura%2F%3Fpage%3D1, line 3: Error: Loading chunk 1 failed.
+(error: https://siteintercept.qualtrics.com/dxjsmodule/1.2d7df593a54f23d86743.chunk.js?Q_CLIENTVERSION=1.31.3&Q_CLIENTTYPE=web)
+JavaScript error: https://www.cars.com/shopping/acura/?page=1 line 5 > scriptElement, line 14: ReferenceError: ttd_dom_ready is not defined
+JavaScript error: , line 0: uncaught exception: undefined
