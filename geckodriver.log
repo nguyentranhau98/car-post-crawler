@@ -1077,3 +1077,125 @@ JavaScript error: https://siteintercept.qualtrics.com/WRSiteInterceptEngine/?Q_Z
 (error: https://siteintercept.qualtrics.com/dxjsmodule/1.2d7df593a54f23d86743.chunk.js?Q_CLIENTVERSION=1.31.3&Q_CLIENTTYPE=web)
 JavaScript error: https://www.cars.com/shopping/acura/?page=1 line 5 > scriptElement, line 14: ReferenceError: ttd_dom_ready is not defined
 JavaScript error: , line 0: uncaught exception: undefined
+1596003849363	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehj4lc5"
+*** You are running in headless mode.
+Exiting due to channel error.
+Exiting due to channel error.
+1596004744732	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileG6vWXp"
+*** You are running in headless mode.
+1596004747851	Marionette	INFO	Listening on port 40859
+1596004747952	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cars.com/shopping/, line 1325: ReferenceError: _satellite is not defined
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.cars.com/shopping/acura/ line 5 > scriptElement, line 14: ReferenceError: ttd_dom_ready is not defined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.cars.com/shopping/acura/?page=1 line 5 > scriptElement, line 14: ReferenceError: ttd_dom_ready is not defined
+JavaScript error: , line 0: uncaught exception: undefined
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1596004891682	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileg1EGTu"
+*** You are running in headless mode.
+1596004894507	Marionette	INFO	Listening on port 40703
+1596004894595	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cars.com/shopping/, line 1325: ReferenceError: _satellite is not defined
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://www.cars.com/shopping/ line 5 > scriptElement, line 14: ReferenceError: ttd_dom_ready is not defined
+JavaScript error: , line 0: uncaught exception: 7
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.cars.com/shopping/acura/ line 5 > scriptElement, line 14: ReferenceError: ttd_dom_ready is not defined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.cars.com/shopping/acura/?page=1 line 5 > scriptElement, line 14: ReferenceError: ttd_dom_ready is not defined
+JavaScript error: , line 0: uncaught exception: undefined
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1596005145604	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecI6VAV"
+*** You are running in headless mode.
+1596005147823	Marionette	INFO	Listening on port 40591
+1596005147912	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cars.com/shopping/, line 1325: ReferenceError: _satellite is not defined
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.cars.com/shopping/acura/ line 5 > scriptElement, line 14: ReferenceError: ttd_dom_ready is not defined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.cars.com/shopping/acura/?page=1 line 5 > scriptElement, line 14: ReferenceError: ttd_dom_ready is not defined
+JavaScript error: https://www.cars.com/vehicledetail/detail/813622342/overview/ line 5 > scriptElement, line 14: ReferenceError: ttd_dom_ready is not defined
+JavaScript error: , line 0: uncaught exception: undefined
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1596005369597	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9xDsd9"
+*** You are running in headless mode.
+1596005371946	Marionette	INFO	Listening on port 34645
+1596005372003	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cars.com/shopping/, line 1325: ReferenceError: _satellite is not defined
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://ai.autoid.com/cars.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://www.cars.com/shopping/ line 5 > scriptElement, line 14: ReferenceError: ttd_dom_ready is not defined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.cars.com/shopping/acura/ line 5 > scriptElement, line 14: ReferenceError: ttd_dom_ready is not defined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://siteintercept.qualtrics.com/WRSiteInterceptEngine/?Q_ZID=ZN_e5sZQpBKez95p8V&Q_LOC=https%3A%2F%2Fwww.cars.com%2Fshopping%2Facura%2F%3Fpage%3D1&Q_LOC=https%3A%2F%2Fwww.cars.com%2Fshopping%2Facura%2F%3Fpage%3D1, line 3: Error: Loading chunk 12 failed.
+(error: https://siteintercept.qualtrics.com/dxjsmodule/12.0da2f5012e49e065e383.chunk.js?Q_CLIENTVERSION=1.31.3&Q_CLIENTTYPE=web)
+JavaScript error: https://siteintercept.qualtrics.com/WRSiteInterceptEngine/?Q_ZID=ZN_e5sZQpBKez95p8V&Q_LOC=https%3A%2F%2Fwww.cars.com%2Fshopping%2Facura%2F%3Fpage%3D1&Q_LOC=https%3A%2F%2Fwww.cars.com%2Fshopping%2Facura%2F%3Fpage%3D1, line 3: Error: Loading chunk 1 failed.
+(error: https://siteintercept.qualtrics.com/dxjsmodule/1.2d7df593a54f23d86743.chunk.js?Q_CLIENTVERSION=1.31.3&Q_CLIENTTYPE=web)
+JavaScript error: https://www.cars.com/shopping/acura/?page=1 line 5 > scriptElement, line 14: ReferenceError: ttd_dom_ready is not defined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200727/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.cars.com/vehicledetail/detail/814410352/overview/ line 5 > scriptElement, line 14: ReferenceError: ttd_dom_ready is not defined
+JavaScript error: , line 0: uncaught exception: undefined
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.

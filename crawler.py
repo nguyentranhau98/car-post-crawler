@@ -29,6 +29,10 @@ for brand in brands:
     # print((link, text))
 print("Finish getting brands...")
 
+
+
+
+
 for link, text in list_link:
     no_car = 0
     car_dict = {}
@@ -56,9 +60,19 @@ for link, text in list_link:
             post_details_urls.append(post_details_url)
             
         for post_url in post_details_urls:
-            if 'www.cars.com' in post_details_url:
+            if 'www.cars.com' in post_url:
                 browser.get(post_url)
-                time.sleep(2)
+                wait = WebDriverWait(browser, 5)
+                checked = False
+                while(not checked):
+                    try:
+                        print("Trying....")
+                        browser.save_screenshot("./sele.png")
+                        element = wait.until(EC.presence_of_element_located((By.ID, 'vdpe-leadform')))
+                        checked = True
+                    except:
+                        browser.get(post_url)
+                
                 car_model = browser.find_element_by_xpath("//section/div/div/h1[@class='cui-heading-2--secondary vehicle-info__title']").get_attribute('innerHTML')
                 price = browser.find_element_by_xpath("//section/div/div/span[@class='vehicle-info__price-display vehicle-info__price-display--dealer cui-heading-2']").get_attribute('innerHTML')
                 
